@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.infitechllc.com/static/css/main.f855e6bc.css",
-    "main.js": "/www.infitechllc.com/static/js/main.0c76fdf1.js",
-    "static/js/584.53cb7e7d.chunk.js": "/www.infitechllc.com/static/js/584.53cb7e7d.chunk.js",
-    "static/media/logo.svg": "/www.infitechllc.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/www.infitechllc.com/index.html",
-    "main.f855e6bc.css.map": "/www.infitechllc.com/static/css/main.f855e6bc.css.map",
-    "main.0c76fdf1.js.map": "/www.infitechllc.com/static/js/main.0c76fdf1.js.map",
-    "584.53cb7e7d.chunk.js.map": "/www.infitechllc.com/static/js/584.53cb7e7d.chunk.js.map"
+    "main.css": "/infitechllc/static/css/main.f855e6bc.css",
+    "main.js": "/infitechllc/static/js/main.e956ff3e.js",
+    "static/js/584.53cb7e7d.chunk.js": "/infitechllc/static/js/584.53cb7e7d.chunk.js",
+    "static/media/logo.svg": "/infitechllc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/infitechllc/index.html",
+    "main.f855e6bc.css.map": "/infitechllc/static/css/main.f855e6bc.css.map",
+    "main.e956ff3e.js.map": "/infitechllc/static/js/main.e956ff3e.js.map",
+    "584.53cb7e7d.chunk.js.map": "/infitechllc/static/js/584.53cb7e7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0c76fdf1.js"
+    "static/js/main.e956ff3e.js"
   ]
 }
