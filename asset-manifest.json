@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8eb1cfed.css",
-    "main.js": "/static/js/main.313bad62.js",
-    "static/js/584.53cb7e7d.chunk.js": "/static/js/584.53cb7e7d.chunk.js",
-    "index.html": "/index.html",
-    "main.8eb1cfed.css.map": "/static/css/main.8eb1cfed.css.map",
-    "main.313bad62.js.map": "/static/js/main.313bad62.js.map",
-    "584.53cb7e7d.chunk.js.map": "/static/js/584.53cb7e7d.chunk.js.map"
+    "main.css": "https://infitechllc.com/static/css/main.8eb1cfed.css",
+    "main.js": "https://infitechllc.com/static/js/main.75998798.js",
+    "static/js/584.53cb7e7d.chunk.js": "https://infitechllc.com/static/js/584.53cb7e7d.chunk.js",
+    "index.html": "https://infitechllc.com/index.html",
+    "main.8eb1cfed.css.map": "https://infitechllc.com/static/css/main.8eb1cfed.css.map",
+    "main.75998798.js.map": "https://infitechllc.com/static/js/main.75998798.js.map",
+    "584.53cb7e7d.chunk.js.map": "https://infitechllc.com/static/js/584.53cb7e7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb1cfed.css",
-    "static/js/main.313bad62.js"
+    "static/js/main.75998798.js"
   ]
 }
